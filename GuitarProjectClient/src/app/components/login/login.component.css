@@ -1,0 +1,20 @@
+header {
+  margin: 0 auto;
+  height: 100px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+}
+
+.login-btn {
+  width: 50px;
+}
+
+.main-child {
+  border: 5px solid black;
+  width: 100%;
+}
+
+.hide-shopping {
+  display: none;
+}
